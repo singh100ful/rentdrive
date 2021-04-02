@@ -1,0 +1,11 @@
+export const PRIMARY = '#00A3AD';
+export const SECONDARY = '#FED654';
+export const BACKGROUND = '#FCFCFC';
+export const TEXT = '#5397AC';
+export const TEXTDARK = '#0F6E8C';
+export const SUCCESS = '#EC2227';
+export const DANGER = '#3FB758';
+export const WARNING = '#FFD500';
+export const GRAY = '#949494';
+export const WHITE = '#F1F1F1';
+export const BLACK = '#011436';
